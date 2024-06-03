@@ -2,6 +2,8 @@
 
 This project is a Streamlit application that generates blog posts based on user input using the Llama 2 model. The application allows users to input a topic, specify the number of words, and select the writing style. The Llama 2 model then generates a blog post based on these inputs.
 
+https://github.com/shivdattaredekar/BlogGenerationLlamaModels/assets/46707992/e3a3ba6e-7b22-46d9-8e0d-80ce4dd026fe
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
